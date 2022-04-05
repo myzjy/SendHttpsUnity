@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a0c14ed-88ba-4ecd-a0e8-40d2f720bb16" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../../obj/Debug/maoLua.luaproj.CoreCompileInputs.cache.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameDataScriptObj/Audio/AudioAsset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameDataScriptObj/Audio/AudioClip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameDataScriptObj/LuaAsset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameDataScriptObj/LuaTextAsset/LuaCreateAssetLoadScriptableObject.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../GameDataScriptObj/LuaTextAsset/LuaCreateAssetLoadScriptableObject.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XLua/Gen/Resources/hotfix_id_map.lua.txt.20210807200509795.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XLua/Gen/Resources/hotfix_id_map.lua.txt.20210808220412567.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XLua/Gen/Resources/hotfix_id_map.lua.txt.20210808220844173.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XLua/Gen/Resources/hotfix_id_map.lua.txt.20210808220946063.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/StateCache/Hierarchy/9df782-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/StateCache/Hierarchy/9df782-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Library/StateCache/SceneView/a2e15b-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/StateCache/SceneView/a2e15b-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1wla4ItbLHcMEUCWIO8EQ8zVSdf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <created>1629035440035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629035440035</updated>
+      <workItem from="1629035446809" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
